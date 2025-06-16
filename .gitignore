@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# SQLite 資料庫 (不上傳資料庫檔案)
+*.db
+*.sqlite
+*.sqlite3
+
+# 日誌檔案
+*.log
+
+# 環境檔案
+.env
+
